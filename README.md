@@ -59,7 +59,7 @@ Link Shortener project is a web application that enables users to convert long U
 ## ⚡ Need more Toturial?
   * [NPM Official Site](https://www.npmjs.com/)
 
-<p align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="" width="200" alt="MONGODB Logo"></a></p>
+<p align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/keerthanam12/Link-Shortener/assets/145577874/776b0b68-91dc-455a-905e-87de54e47d49" width="200" alt="MONGODB Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/mongodb/mongodb"><img src="https://img.shields.io/packagist/dt/mongodb/mongodb" alt="Total Downloads"></a>
@@ -75,6 +75,28 @@ Link Shortener project is a web application that enables users to convert long U
 
 ## ⚡ Need more Toturial?
   * [MONGODB Official Site](https://www.mongodb.com/)
+
+
+## 🚀 Run the Project
+**1.** Download and Extract the zip file. Make sure to install the packages "NodeJS" and "NPM" and "MONGODB" in your environment variables.
+
+**2.** Go to the File Explorer. Open the Extracted zip file.
+
+**3.** Then go to VSCode and open folder and open this file.
+
+**4.** Then click New Terminal and type [cd url-shortener] and click enter. 
+
+**5.** Run the following commands:
+
+```
+npm start
+```
+or
+```
+npm install
+```
+
+**6.** Open a web browser. (http://localhost:8000/ or http://127.0.0.1:8000/)
 
 
 ## 📬 Contact
