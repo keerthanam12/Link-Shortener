@@ -3,7 +3,7 @@ Link Shortener
 
 
 # 🔗 Project Description
-Link Shortener project is a web application that enables users to convert long URLs into shorter, more manageable links. It offers a range of features including custom aliases, analytics tracking, and the ability to set expiration dates for shortened URLs. Additionally, the application provides a RESTful API for programmatic URL shortening and analytics retrieval. This tool is ideal for simplifying URL sharing and tracking link performance.
+Link Shortener project is a web application that enables users to convert long URLs into shorter, more manageable links. It offers a range of features including custom aliases, analytics tracking, and the ability to set expiration dates for shortened URLs. 
 
 
 ## 🖥️ Tech Stack
