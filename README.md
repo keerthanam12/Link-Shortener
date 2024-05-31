@@ -79,7 +79,7 @@ Link Shortener project is a web application that enables users to convert long U
 
 
 ## 🚀 Run the Project
-**1.** Download and Extract the zip file. Make sure to install the packages "NodeJS" and "NPM" and "MONGODB" in your environment variables.
+**1.** Download and Extract the zip file. Make sure to install the packages "NodeJS" and "NPM" and "MongoDB" in your environment variables.
 
 **2.** Go to the File Explorer. Open the Extracted zip file.
 
