@@ -59,7 +59,7 @@ Link Shortener project is a web application that enables users to convert long U
 ## ⚡ Need more Toturial?
   * [NPM Official Site](https://www.npmjs.com/)
 
-<p align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/keerthanam12/Link-Shortener/assets/145577874/776b0b68-91dc-455a-905e-87de54e47d49" width="200" alt="MONGODB Logo"></a></p>
+<p align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/keerthanam12/Link-Shortener/assets/145577874/776b0b68-91dc-455a-905e-87de54e47d49" width="200" alt="MongoDB Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/mongodb/mongodb"><img src="https://img.shields.io/packagist/dt/mongodb/mongodb" alt="Total Downloads"></a>
