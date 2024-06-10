@@ -71,7 +71,7 @@ Link Shortener project is a web application that enables users to convert long U
 </p>
 
 ## ⚡ About MongoDB
-  * Install and setup `mongodb` package
+  * Install the `mongodb` package
   * Download `mongodb` from here https://www.mongodb.com/docs/v2.6/tutorial/install-mongodb-on-windows/
   * Then setup the `mongodb` package
   * Checking and updating `mongodb` version the following command `mongod -v`
