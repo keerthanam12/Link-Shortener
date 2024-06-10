@@ -88,7 +88,7 @@ Link Shortener project is a web application that enables users to convert long U
 
 **3.** Then go to VSCode and open folder and open this file.
 
-**4.** Then click New Terminal and type [cd url-shortener] and click enter. 
+**4.** Then click New Terminal and type [cd Link-Shortener] and click enter. 
 
 **5.** Run the following commands:
 
